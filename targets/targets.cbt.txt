@@ -1,0 +1,8 @@
+king
+queen
+donkey
+cat
+treasure
+prince
+word
+sword
