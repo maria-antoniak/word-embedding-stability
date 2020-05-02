@@ -6,7 +6,7 @@ Code for the paper [Evaluating the Stability of Embedding-based Word Similaritie
 
 `run.py` -- the main file that loops through all the corpora, models, etc. and submits scripts as condor jobs
 
-`run.py` submits the following to condor:  
+The above script submits the following to condor:  
 `process.sh` -- prepares the corpora for training  
 `train.sh` -- trains the models  
 `evaluate.sh` -- gets the most similar words  
