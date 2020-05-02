@@ -2,7 +2,7 @@
 
 Code for the paper [Evaluating the Stability of Embedding-based Word Similarities](https://maria-antoniak.github.io/publications) (Antoniak & Mimno, 2018).
 
-# SCRIPTS
+# Scripts
 
 `run.py` -- the main file that loops through all the corpora, models, etc. and submits scripts as condor jobs
 
@@ -11,7 +11,7 @@ Code for the paper [Evaluating the Stability of Embedding-based Word Similaritie
 `train.sh` -- trains the models
 `evaluate.sh` -- gets the most similar words
 
-# OUTPUT STRUCTURE
+# Output Structure
 
 `/out/corpus/document_size/corpus_size/{evaluation|models|data|plots}`
 
